@@ -6,7 +6,7 @@ This script starts with the assumption that the dplyr library has been installed
 
 If the script is copied to the working directory, it can be run with the command: source("run_analysis.R")  
 
-##The script consists of 5 basic steps:
+##The script consists of 8 basic steps:
 ### 1. Reading in the data files.
       A list of all the files being read using read.table:
         + X_train.txt
