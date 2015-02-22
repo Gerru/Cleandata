@@ -3,12 +3,12 @@ Each number identifies the subject who performed the activity for each window sa
 
 ##### "activity"
 A list of 6 possible activities:
-    Walking
-    Walking_Upstairs
-    Walking_Downstairs
-    Sitting
-    Standing
-    Laying
++ Walking
++ Walking_Upstairs
++ Walking_Downstairs
++ Sitting
++ Standing
++ Laying
 
 #####Measurements/features
 The average of each mean() and std() variable for each activity and each subject.
