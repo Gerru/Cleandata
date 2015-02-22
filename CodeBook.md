@@ -12,6 +12,7 @@ A list of 6 possible activities:
 
 #####Measurements/features
 The average of each mean() and std() variable for each activity and each subject.
+For more information on the values please read the features_info.txt file
 
 "tBodyAcc-mean()-X"
 
