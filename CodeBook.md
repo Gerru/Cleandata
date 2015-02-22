@@ -1,7 +1,7 @@
-"subjects"
+##### "subjects"
 Each number identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-"activity"
+##### "activity"
 A list of 6 possible activities:
     Walking
     Walking_Upstairs
@@ -10,8 +10,7 @@ A list of 6 possible activities:
     Standing
     Laying
 
-
-Measurements 
+#####Measurements/features
 The average of each mean() and std() variable for each activity and each subject.
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
